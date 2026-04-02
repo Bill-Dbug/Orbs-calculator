@@ -1,7 +1,7 @@
 {
   "name": "Orbs Calculator",
   "short_name": "OrbsCalc",
-  "start_url": "./SGRCalculator.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0d0d0d",
   "theme_color": "#00c3ff",
